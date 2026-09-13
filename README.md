@@ -82,6 +82,7 @@ The SQL script (`sql/India_GDP_Analysis_SQL.sql`) utilizes advanced functions in
 ---
 
 ## 📁 Repository Structure
+
 ```text
 India-GDP-Growth-Analytics/
 ├── data/
@@ -102,24 +103,4 @@ India-GDP-Growth-Analytics/
 │   ├── India GDP Growth Distribution and Outliers.png
 │   ├── India GDP Growth_Pre-COVID to Recovery.png
 │   └── Average India GDP Growth by Decade.png
-└── README.md
----
-
-## 🎓 Skills Demonstrated
-* **Analytics:** EDA, Data Cleaning, Descriptive Statistics, Trend/Correlation/Outlier/Time-series Analysis.
-* **Python:** Pandas, NumPy, API data retrieval, Data merging, Matplotlib, Seaborn.
-* **SQL:** Window functions, moving averages, CTEs, Categorization.
-* **BI:** KPI reporting, Dashboard design, Interactive presentations.
-
----
-
-## 👤 Author
-**Aryan Gupta**  
-*Business Analyst | Data Analyst | Power BI | SQL | Advanced Excel | Business Intelligence*
-
-* **GitHub:** [@aryan1821](https://github.com/aryan1821)
-* **LinkedIn:** [Aryan Gupta](https://www.linkedin.com/in/aryangupta-data)
-
----
-
-⭐ **If you find this project useful, feel free to explore the code and dashboard. Don't forget to star the repository!**
+└── README.md. Feel free to explore the code and dashboard. Don't forget to star the repository!**
