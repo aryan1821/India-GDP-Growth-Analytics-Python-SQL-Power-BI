@@ -65,14 +65,14 @@ This project analyzes India's economic growth over the period 2000–2025 using 
 ## 💻 Technical Implementation
 
 ### 📊 Power BI Dashboard Overview
-Provides a consolidated view of economic performance including KPIs (GDP Growth, Inflation, GDP Per Capita, Population), Growth vs 5-Year Moving Average, and Decade-wise trends.
+Provides a consolidated view of economic performance, including KPIs (GDP Growth, Inflation, GDP Per Capita, Population), Growth vs 5-Year Moving Average, and Decade-wise trends.
 
-![Power BI Dashboard Overview](dashboard/India_GDP_PowerBI_Dashboard.png)
+![Power BI Dashboard Overview](India_GDP_PowerBI_Dashboard.png)
 
 ### 📉 Python Analysis & Graph Overview
-The Jupyter Notebook performs the main EDA, API retrievals, and calculations. Below is a snapshot of the India GDP Growth vs 5-Year Moving Average trend over the years.
+The Jupyter Notebook performs the main EDA, API retrievals, and calculations. Below is a snapshot of the India GDP Growth vs. 5-Year Moving Average trend over the years.
 
-![India GDP Growth vs 5-Year Moving Average](visualizations/India%20GDP%20Growth%20vs%205-Year%20Moving%20Average.png)
+![India GDP Growth vs 5-Year Moving Average](India%20GDP%20Growth%20vs%205-Year%20Moving%20Average.png)
 
 *(For more analytical graphs like Inflation correlations and Outliers, check the `visualizations/` folder)*
 
