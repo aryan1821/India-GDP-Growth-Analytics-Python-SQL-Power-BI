@@ -83,24 +83,48 @@ The SQL script (`sql/India_GDP_Analysis_SQL.sql`) utilizes advanced functions in
 
 ## 📁 Repository Structure
 
-```text
-India-GDP-Growth-Analytics/
-├── data/
-│   ├── GDP_DataSet.xls
-│   ├── GDP_Missing_2000_2003.csv
-│   └── India_Economic_Analysis_2000_2025.csv
-├── analysis/
-│   ├── India_GDP_Growth_Analysis.ipynb
-│   ├── India_GDP_Analysis_SQL.sql
-│   └── India_GDP_Analysis_Dashboard.pbix
-├── dashboard/
-│   ├── India_GDP_Analysis_Dashboard.pbix
-│   └── India_GDP_PowerBI_Dashboard.png
-├── visualizations/
-│   ├── India GDP Growth Rate (2000–2025).png
-│   ├── India GDP Growth vs 5-Year Moving Average.png
-│   ├── India GDP Growth vs Inflation (2000–2025).png
-│   ├── India GDP Growth Distribution and Outliers.png
-│   ├── India GDP Growth_Pre-COVID to Recovery.png
-│   └── Average India GDP Growth by Decade.png
-└── README.md. Feel free to explore the code and dashboard. Don't forget to star the repository!**
+| File / Folder | Description |
+|---|---|
+| `data/` | Folder containing raw Excel data and processed CSV economic datasets |
+| `data/GDP_DataSet.xls` | Source raw Excel GDP dataset |
+| `data/GDP_Missing_2000_2003.csv` | Supplementary data for missing early years |
+| `data/India_Economic_Analysis_2000_2025.csv` | Final processed dataset ready for analysis |
+| `analysis/` | Folder containing core analysis scripts and notebooks |
+| `analysis/India_GDP_Growth_Analysis.ipynb` | Jupyter Notebook for Python data analysis and EDA |
+| `analysis/India_GDP_Analysis_SQL.sql` | SQL script for complex analytical queries |
+| `dashboard/` | Folder containing the final dashboard and preview images |
+| `dashboard/India_GDP_Analysis_Dashboard.pbix` | Power BI dashboard and data model |
+| `dashboard/India_GDP_PowerBI_Dashboard.png` | Main dashboard preview image |
+| `visualizations/` | Folder containing exported analytical charts (e.g., Outliers, Moving Averages, Inflation correlations) |
+| `README.md` | Main project documentation |
+
+---
+
+## 👨‍💻 About Me
+
+### Aryan Gupta
+**Data Analyst | Business Intelligence | Front-End Developer**
+
+I am passionate about using **data, technology, and visualization** to solve business problems and create meaningful digital solutions. 
+
+My interests include:
+* Data Analytics
+* Business Intelligence
+* Power BI
+* Python
+* SQL
+* Excel
+* Front-End Development
+* UI/UX
+* Digital Design
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/aryangupta-data)
+* 📸 [Instagram](https://www.instagram.com/______aryan07______/)
+
+---
+⭐ If you find this project useful, consider giving the repository a star!
+
